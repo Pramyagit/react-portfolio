@@ -48,7 +48,7 @@ export const Demo = () => {
           >
             <img src={img2} className="card-img-top" alt="" />
             <div className="html card-body">
-              <h3>Css project</h3>
+              <h3>Css Project</h3>
               <button className="glow-on-hover">
                 <a href="https://pramyagit.github.io/tic-tacgame/">DEMO</a>
               </button>
@@ -63,7 +63,7 @@ export const Demo = () => {
             <img src={img3} className="card-img-top" alt="" />
 
             <div className="html card-body">
-              <h3> javascript project</h3>
+              <h3> Javascript Project</h3>
               <button className="glow-on-hover">
                 <a href="https://pramyagit.github.io/HOTEL-DEMO/">DEMO</a>
               </button>
@@ -77,7 +77,7 @@ export const Demo = () => {
           >
             <img src={img4} className="card-img-top" alt="" />
             <div className="html card-body">
-              <h3> bootstrab project</h3>
+              <h3> Bootstrab Project</h3>
               <button className="glow-on-hover">
                 <a href="https://pramyagit.github.io/petshop/">DEMO</a>
               </button>
